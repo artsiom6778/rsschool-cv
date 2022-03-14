@@ -1,5 +1,5 @@
 #rsschool-cv
-***
+___
 
 #HelpUkraine#NoWar
 1. My full name is Artsiom Strakovich
