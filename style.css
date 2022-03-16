@@ -1,3 +1,95 @@
 body{
+    font-family: 'Lato', sans-serif;
 
+    font-size: 14px;
+    color: #6c7279;
+    background-color: #fff;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+}
+.Photo{
+    height: 50%;
+    width: 30%;
+
+    position: inherit;
+    float: right;
+    margin: -70px 0px;
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 0px;
+}
+.header-name{
+    margin-top:  70px;
+    margin-left: 30px;
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+    color: #585858;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.1;
+}
+.header-prof{
+    margin-top: 10px;
+    font-size: 25px;
+    margin-left: 30px;
+    color: #4a78b4;
+}
+.line{
+    width: 820px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.header-about{
+    margin-left: 30px;
+    width: 65%;
+    margin-top: 15px;
+ font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+}
+
+.Works{
+    margin-top: 20px;
+    margin-left: 60px;
+    font-size: 40px;
+    color: #4a78b4;
+}
+.line2{
+    width: 700px;
+    height: 4px;
+}
+.works-about{
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    color: #6c7279;
+    width: 700px;
+}
+.eclipse{
+    margin-top: 30px;
+    margin-left: 45px;
+
+}
+.eclipse-photo{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    z-index: 1;
+}
+.galka{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 22px;
+    height: 35px;
+    width: 35px;
+    z-index: 2;
+
+}
+.rectangle{
+    width: 4px;
+    height: 350px;
+    position: relative;
+    left: 37px;
+    top: 10px;
 }
